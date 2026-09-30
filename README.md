@@ -200,4 +200,5 @@ Feedstock Maintainers
 * [@glatterf42](https://github.com/glatterf42/)
 * [@meksor](https://github.com/meksor/)
 * [@phackstock](https://github.com/phackstock/)
+* [@pmussak](https://github.com/pmussak/)
 
